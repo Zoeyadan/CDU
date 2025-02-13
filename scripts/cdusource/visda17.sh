@@ -1,0 +1,1 @@
+bash scripts/cdusource/main_cdusource.sh visda17 b32_ep10_visda CDUSOURCE ViT-L/14 4 s-r 0

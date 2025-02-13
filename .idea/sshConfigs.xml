@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.23.206.108" id="343f49a0-73c7-4441-bf40-36daf09e6ae7" port="22" customName="dxw84" nameFormat="CUSTOM" username="oem" useOpenSSHConfig="true">
+        <option name="customName" value="dxw84" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="172.23.206.108" id="06c017cb-bb37-4f0e-8f94-8b6bc7a13c21" port="22" nameFormat="DESCRIPTIVE" username="dxw" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

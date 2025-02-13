@@ -1,0 +1,12 @@
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 a-c 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 a-p 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 a-r 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 c-a 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 c-p 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 c-r 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 p-a 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 p-c 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 p-r 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 r-a 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 r-c 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 r-p 0

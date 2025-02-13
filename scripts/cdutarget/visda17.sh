@@ -1,0 +1,1 @@
+bash scripts/cdutarget/main_cdutarget.sh visda17 b32_ep10_visda CDUTARGET ViT-B/16 4 s-r 2 100

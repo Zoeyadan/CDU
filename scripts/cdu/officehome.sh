@@ -1,0 +1,12 @@
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 a-c 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 a-p 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 a-r 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 c-a 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 c-p 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 c-r 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 p-a 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 p-c 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 p-r 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 r-a 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 r-c 1 100
+bash scripts/cdu/main_cdu.sh officehome b32_ep20_officehome CDU ViT-B/16 4 r-p 1 100

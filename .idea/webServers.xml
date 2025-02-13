@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2fee884a-f91c-4cba-b142-23239ac39082" name="dxw84">
+        <fileTransfer accessType="SFTP" host="222.201.56.84" port="22" sshConfigId="931e26eb-b1ac-475a-8941-46cbb60a0591" sshConfig="dxw@222.201.56.84:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bbbe2ff7-c82a-45b0-bf12-c8e4d736376e" name="a800">
+        <fileTransfer accessType="SFTP" host="172.23.206.108" port="22" sshConfigId="343f49a0-73c7-4441-bf40-36daf09e6ae7" sshConfig="dxw84">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8f44303b-9768-4c90-957b-8da22f11e420" name="dxw108">
+        <fileTransfer accessType="SFTP" host="172.23.206.108" port="22" sshConfigId="06c017cb-bb37-4f0e-8f94-8b6bc7a13c21" sshConfig="dxw@172.23.206.108:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

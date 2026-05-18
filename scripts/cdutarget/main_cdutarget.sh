@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # custom config
-DATA=/Workplace_sdb/dxw/data # your directory
+DATA=/mnt/data/.work/uda/Datasets # your directory
 
 DATASET=$1
 CFG=$2  # config file

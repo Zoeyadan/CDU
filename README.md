@@ -134,7 +134,7 @@ Please follow the instructions for training, evaluating and reproducing the resu
 
 ```
 # Example: trains on Office-Home dataset, and the source domian is art and the target domain is clipart (a-c)
-bash scripts/cdu/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 a-c 0
+bash scripts/cdusource/main_cdusource.sh officehome b32_ep20_officehome CDUSOURCE ViT-L/14 4 a-c 0
 ```
 
 
